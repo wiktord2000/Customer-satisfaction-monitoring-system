@@ -1,6 +1,35 @@
 # Customer satisfaction monitoring system
 
-This project was implemented as Team Project for InsERT Company to pass the university course and achieve some experience with big projects where teamwork is really important. The project aimed to create a web application that allows any service company to create their account and give the opportunity to create, manage and analyze the polls for their customers (similar to Google Forms). The polls can be sent to the customer after service is performed for example after shoe delivery. The link to the form can be sent by e-mail via a dedicated window which allows us to add basic information like a topic of message or description. Application support handy mechanisms like import addresses from the CSV file, the possibility to change the view of displaying polls and more. To generate charts was used most popular open-source library Ngx-Charts framework. The backend was performed by my colleagues with the use of Django REST framework (Python) and database manager PostgreSQL. Personally, I was responsible for the frontend side and I worked in Angular framework with TypeScript language (using Angular Material components).
+In the context of the 2022 Team Projects Conference, InsERT submitted its own project, in partnership with
+Wrocław University of Science and Technology. The initiative was named ‘’Customer satisfaction monitoring
+system’’ and aimed to create a dedicated module for existing solutions of InsERT. This module was
+responsible for collecting information about customer satisfaction and their current needs. Its functionalities
+included creating personalized surveys, sending them to customers, and reviewing the results of the
+surveys (similar to Google Forms). 
+
+The project was carried out by a five-person team, coordinated by a
+delegated InsERT employee. The final outcome of our work was presented during the Team Projects
+Conference, which took place on June 23, 2022, at the Wrocław University of Science and Technology. A
+promotional video of our product can be found on my portfolio on GitHub.
+
+### Responsibilities
+ - Designing the user interface
+ - Implementing the user interface using Angular framework
+ - Developing the application based on Angular Material library
+ - Maintaining documentation (including creating user manual)
+ - Generating charts using ngx-charts framework
+ - Creating the relational database schema
+ - Handling communication with the API created for the project
+
+### Technologies
+ - Angular
+ - ngx-charts
+ - RxJS
+ - Angular Material
+ - Django REST Framework
+ - PostgreSQL
+ - Docker
+ - NGINX
 
 ## Video presentation at YouTube
 
