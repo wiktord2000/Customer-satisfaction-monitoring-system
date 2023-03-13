@@ -12,7 +12,7 @@ delegated InsERT employee. The final outcome of our work was presented during th
 Conference, which took place on June 23, 2022, at the Wrocław University of Science and Technology. A
 promotional video of our product can be found on my portfolio on GitHub.
 
-### Responsibilities
+### Responsibilities:
  - Designing the user interface
  - Implementing the user interface using Angular framework
  - Developing the application based on Angular Material library
@@ -21,7 +21,7 @@ promotional video of our product can be found on my portfolio on GitHub.
  - Creating the relational database schema
  - Handling communication with the API created for the project
 
-### Technologies
+### Technologies:
  - Angular
  - ngx-charts
  - RxJS
