@@ -9,8 +9,7 @@ surveys (similar to Google Forms).
 
 The project was carried out by a five-person team, coordinated by a
 delegated InsERT employee. The final outcome of our work was presented during the Team Projects
-Conference, which took place on June 23, 2022, at the Wrocław University of Science and Technology. A
-promotional video of our product can be found on my portfolio on GitHub.
+Conference, which took place on June 23, 2022, at the Wrocław University of Science and Technology.
 
 ### Responsibilities:
  - Designing the user interface
